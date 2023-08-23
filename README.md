@@ -2,7 +2,7 @@
 
 
 
-Lecture materials and activities for Michelle Kuchera's lectures at the CPS-FR 22. August 22-27, 2022. Hosted by the Massachusetts Institute of Technology.
+Lecture materials and activities for Michelle Kuchera's lectures at the CPS-FR 22. August 24-25, 2022. Hosted by the Massachusetts Institute of Technology.
 
 - [Course announcement](https://www.psfc.mit.edu/events/2022/computational-physics-school-for-fusion-research-cps-fr-2022)
 - [Course Schedule](https://sites.google.com/psfc.mit.edu/cps-fr-2022/program?authuser=0)

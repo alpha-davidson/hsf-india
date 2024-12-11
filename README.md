@@ -2,7 +2,7 @@
 
 
 
-Lecture materials and activities for Michelle Kuchera's lectures at the HSF Scientific Computing Workshop 2024. December 16-20, 2024. Hosted by the University of Calcutta.
+Deep learning lecture materials and activities for Michelle Kuchera's lectures at the HSF Scientific Computing Workshop 2024. December 16-20, 2024. Hosted at the University of Calcutta, organized and supported by the VECC, Kolkata. Expenses supported by HEP Software Foundation (grant OISE-2201990).
 
 - [Course page]([https://sites.google.com/psfc.mit.edu/cps-fr-2024/home](https://indico.cern.ch/event/1461967/))
 - [Course Schedule]([https://sites.google.com/psfc.mit.edu/cps-fr-2024/program?authuser=0](https://indico.cern.ch/event/1461967/timetable/#20241216))
